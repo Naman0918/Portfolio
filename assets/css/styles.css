@@ -1047,3 +1047,18 @@ form .button-area {
     margin-right: 2rem;
   }
 }
+
+
+.containercount {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.name-wrapper {
+  flex: 1;
+  text-align: center;
+  margin-left: 17%;
+}
+.countercount {
+  margin-left: 0; /* Remove the existing margin-left */
+}
